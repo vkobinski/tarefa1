@@ -1,0 +1,2 @@
+frase = "Python";
+print(frase);
